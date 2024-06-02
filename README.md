@@ -3,7 +3,7 @@
 This is a basic backend project for an e-commerce platform providing the necessary functionality to support online transactions. It's integrated with the Stripe Payment API for handling payments. The backend is built using Node.js and Express.js, with JWT used for authorzation/authentication. MongoDB is utilized as the database to store product information, userd data.
 
 ## Features
-- **Stripe Payment Integration**: Payment processing using the Stripe Payment API allows for secure and efficient transactions on your e-commerce platform.
+- **Stripe Payment Integration**: Payment processing using the Stripe Payment API.
 - **Authorization with JWT**: Implement secure authentication and authorization using JSON Web Tokens(JWT), ensure that only authenticated users can access protected routes and resources.
 - **MongoDB Database**: Utilize MongoDB as the database solution, providing a flexible and scalable storage solution for product catalogs, user profiles.
 - **Express.js Middleware**: Leverage Express.js middleware for routing, request handling and middleware integration, ensuring efficient handling of HTTP requests.
