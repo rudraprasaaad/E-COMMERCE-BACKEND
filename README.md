@@ -1,5 +1,5 @@
 # E-COMMERCE-BACKEND
-## Overview
+
 This is a basic backend project for an e-commerce platform providing the necessary functionality to support online transactions. It's integrated with the Stripe Payment API for handling payments. The backend is built using Node.js and Express.js, with JWT used for authorzation/authentication. MongoDB is utilized as the database to store product information, userd data.
 
 ## Features
